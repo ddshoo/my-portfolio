@@ -14,30 +14,30 @@ export const projectsData = [
 
     {
         id: 2,
-        projectName: 'Socially Shoppable',
-        projectDesc: 'This is an affiliate website where users can buy products of different brands.',
-        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
+        projectName: 'Japanese Character Learner',
+        projectDesc: 'For weebs to learn Japanese by associating characters to character names.',
+        tags: ['REACT'],
         code: '#',
-        demo: 'https://ss.demo.thewebpatriot.co.in/',
-        image: 'https://i.ibb.co/s9zkvsG/ss.png'
+        demo: 'https://character-learner-3eo2qiaea-david-shus-projects.vercel.app/',
+        image: 'https://i.postimg.cc/66M3vXt6/Untitled.jpg'
     },
     {
         id: 3,
-        projectName: 'Agoda Clone',
-        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
-        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
-        code: 'https://github.com/shailendra7518/Agoda-clone',
-        demo: 'https://agoda-clone.vercel.app/',
-        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+        projectName: 'Crossword Game',
+        projectDesc: 'Minimalistic version of my Crossword Application with auto-check feature',
+        tags: ['REACT','JSX','EXPRESS'],
+        code: '#',
+        demo: 'https://simple-crossword.vercel.app/',
+        image: 'https://i.postimg.cc/XvDg1h0w/Untitled.jpg'
     },
     {
         id: 1,
-        projectName: 'CAD BULL',
-        projectDesc: '2D Cad Library, Cad Blocks, Autocad Blocks Furniture, Architecture-Interiors design-Construction floor plan and detail in autocad dwg format.',
-        tags: ['React', 'CSS', 'Material Ui', 'Node Js'],
+        projectName: 'Euchre Game App',
+        projectDesc: 'Using Abstract Data Types in C++, Derived Classes, Inheritance, and Polymorphism to implement 1-2 player Euchre',
+        tags: ['C++', 'Command Line', 'OOP'],
         code: '',
-        demo: 'https://cadbull.com/',
-        image: 'https://i.ibb.co/GR7njjC/cadbull.png'
+        demo: 'https://eecs280staff.github.io/p3-euchre/',
+        image: 'https://i.postimg.cc/br74trvF/D-arby-vs-jotaro.webp'
     },
     // {
     //     id: 2,

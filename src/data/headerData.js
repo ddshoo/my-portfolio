@@ -1,9 +1,9 @@
-import resume from '../assets/pdf/Software Developer Devesh Verma.pdf'
+import resume from '../assets/pdf/Updated David Resume (3).pdf'
 
 export const headerData = {
-    name: 'Devesh Verma',
+    name: 'David Shu',
     title: "Full-Stack Web Developer",
-    desciption:"Passionate Full-Stack Web Developer adept in JavaScript, React, Node.js, and MongoDB, with a focus on crafting beautiful and functional websites. Proficient in HTML, CSS, and Bootstrap, I strive to deliver seamless user experiences through innovative design and industry-leading practices. Let's collaborate to bring your web projects to life with creativity and precision.",
-    image: 'https://i.ibb.co/TW2L73J/Whats-App-Image-2024-03-08-at-10-18-58-ea0a64b4-removebg-preview-1-removebg-preview.png',
+    desciption: "Dedicated Backend Developer skilled in Node.js, Express, and MongoDB, specializing in creating efficient and scalable server-side applications. Proficient in building RESTful APIs, database design, and integration, I focus on optimizing performance and ensuring robust data management. Let's collaborate to develop high-performance backend systems that power seamless and responsive web applications.",
+    image: 'https://i.postimg.cc/4yfYT4Gq/headpic.jpg',
     resumePdf: resume
 }
